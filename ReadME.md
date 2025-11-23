@@ -1,6 +1,6 @@
 ## [PROJETOS]
 Pokedex - https://github.com/RenanYFC/Pokedex-iOS
-  
+Majora's Tracker - https://github.com/JulioSalvarani/MajorasTracker
 
 <!--
 **JulioSalvarani/JulioSalvarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
