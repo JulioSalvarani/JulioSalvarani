@@ -4,6 +4,8 @@ Pokedex - https://github.com/RenanYFC/Pokedex-iOS
 Majora's Tracker - https://github.com/JulioSalvarani/MajorasTracker
 
 Análise de dados sobre desempenho escolar - https://github.com/JulioSalvarani/projeto_analise_dados-Desempenho-Escolar
+
+Supermercado API - https://github.com/JulioSalvarani/supermercado
 <!--
 **JulioSalvarani/JulioSalvarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
