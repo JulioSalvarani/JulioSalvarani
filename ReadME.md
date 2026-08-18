@@ -1,11 +1,13 @@
-## [PROJETOS]
-Pokedex - https://github.com/RenanYFC/Pokedex-iOS
+# [PROJETOS]
+## Pokedex - https://github.com/RenanYFC/Pokedex-iOS
+Uma Pokedex usando Swift e SwiftUI, aplicando os padrões HIG (Human Interface Guidelines) da Apple.
+## Majora's Tracker - https://github.com/JulioSalvarani/MajorasTracker
+Um visualizador de máscaras do jogo The Legend of Zelda Majora's Mask com barra de pesquisa
+## Análise de dados sobre desempenho escolar - https://github.com/JulioSalvarani/projeto_analise_dados-Desempenho-Escolar
+Desenvolvimento de análise exploratória e tratamento de dados de desempenho acadêmico utilizando Python e Pandas para extração de insights estratégicos.
+## Supermercado API - https://github.com/JulioSalvarani/supermercado
+Desenvolvimento de API RESTful em Java com Spring Boot integrada a banco de dados SQL, utilizando arquitetura em camadas e documentação OpenAPI 3.0 para controle e gestão de estoque.
 
-Majora's Tracker - https://github.com/JulioSalvarani/MajorasTracker
-
-Análise de dados sobre desempenho escolar - https://github.com/JulioSalvarani/projeto_analise_dados-Desempenho-Escolar
-
-Supermercado API - https://github.com/JulioSalvarani/supermercado
 <!--
 **JulioSalvarani/JulioSalvarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
