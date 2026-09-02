@@ -1,6 +1,6 @@
 # [PROJETOS]
 
-## Análise de dados das eleições
+## [WIP] Análise de dados das eleições
 Análise  desenvolvida pela equipe DataMind-Analytics para a análise estratégica dos Dados Abertos de Votação do TSE (Tribunal Superior Eleitoral) com foco no Estado do Amazonas (AM).
 
 ## [WIP] Lista de tarefas em Next.js
