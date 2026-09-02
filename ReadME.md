@@ -1,4 +1,11 @@
 # [PROJETOS]
+
+## Análise de dados das eleições
+Análise  desenvolvida pela equipe DataMind-Analytics para a análise estratégica dos Dados Abertos de Votação do TSE (Tribunal Superior Eleitoral) com foco no Estado do Amazonas (AM).
+
+## [WIP] Lista de tarefas em Next.js
+Uma aplicação completa usando Next.js, React.js, TypeScript, PostgreSQL, Prisma ORM, Tailwind CSS e Shadcn UI
+
 ## Análise de dados sobre desempenho escolar - https://github.com/JulioSalvarani/projeto_analise_dados-Desempenho-Escolar
 Desenvolvimento de análise exploratória e tratamento de dados de desempenho acadêmico utilizando Python e Pandas para extração de insights estratégicos.
 
